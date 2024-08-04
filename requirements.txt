@@ -8,3 +8,4 @@ category_encoders
 plotly
 lightgbm
 imblearn
+xgboost
