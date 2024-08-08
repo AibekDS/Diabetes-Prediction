@@ -9,3 +9,5 @@ plotly
 lightgbm
 imblearn
 xgboost
+hyperopt
+setuptools
