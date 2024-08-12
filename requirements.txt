@@ -11,3 +11,4 @@ imblearn
 xgboost
 hyperopt
 setuptools
+pickle
